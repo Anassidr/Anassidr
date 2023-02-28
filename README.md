@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi there, welcome to my Github.
+- 🌱 I'm interested in Data Engineering, Software Engineering and ML. 
+- ⚡ My stack/tools: Python, SQL, docker, Airflow, GCP | Linux
+- 🔭 Currently, I'm working on end-to-end Data Engineering projects. 
+- 📫 For contact: anasskamal.id@gmail.com 
 
 <!--
 **Anassidr/Anassidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
