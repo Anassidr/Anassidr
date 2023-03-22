@@ -1,7 +1,7 @@
 - 👋 Hi there, welcome to my Github.
-- 🌱 I'm interested in Data Engineering, Software Engineering and ML. 
-- ⚡ My stack: Python, SQL, docker, Airflow, GCP | Linux
-- 🔭 Currently, I'm working on end-to-end Data Engineering projects. 
+- 🌱 I'm interested in Software Engineering, Data Engineering, and ML. 
+- ⚡ My stack: Python - Django, Golang, SQL, docker, Airflow, GCP | Linux
+- 🔭 Currently, I'm working on projects with Go and React. 
 - 📫 For contact: anasskamal.id@gmail.com 
 
 <!--
