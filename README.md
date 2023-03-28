@@ -1,10 +1,10 @@
 - 👋 Hi there, welcome to my Github.
 - 🌱 I'm interested in Software Engineering and Data Engineering.
 - ⚡ My stack:
-  - Programming : Python - Django, Go (Golang), React. 
+  - Programming : Python - Django, Golang.
   - Databases : SQL, Postgres
   - Devops/OS : Docker, Airflow, GCP | Linux
-- 🔭 Currently, I'm building web applications with Go and React. 
+- 🔭 Currently, I'm building web applications with Golang. 
 - 📫 For contact: anasskamal.id@gmail.com 
 
 <!--
