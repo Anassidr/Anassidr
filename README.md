@@ -1,6 +1,6 @@
 - 🌱 Software Engineering and Data Engineering.
 - ⚡ Stack:
-  - Programming : Python - Django, Golang.
+  - Programming : Python - Django, Golang
   - Databases : SQL, Postgres
   - Devops/OS : Docker, Airflow, GCP | Linux
 - 🔭 Currently, I'm building web applications with Golang. 
