@@ -1,6 +1,5 @@
-- 👋 Hi there, welcome to my Github.
-- 🌱 I'm interested in Software Engineering and Data Engineering.
-- ⚡ My stack:
+- 🌱 Software Engineering and Data Engineering.
+- ⚡ Stack:
   - Programming : Python - Django, Golang.
   - Databases : SQL, Postgres
   - Devops/OS : Docker, Airflow, GCP | Linux
