@@ -1,11 +1,10 @@
-- 🌱 Software Engineering and Data Engineering.
+- 🌱 Data Engineering and Data Science.
 - ⚡ Stack:
-  - Programming : Python - Django, Golang
+  - Programming : Python, Golang
   - Databases : SQL, Postgres
-  - Devops/OS : Docker, Airflow, GCP | Linux
-- 🔭 Currently, I'm building web applications with Golang. 
-- 📫 For contact: anasskamal.id@gmail.com 
-
+  - Devops/OS : Docker, Airflow, AWS | Linux
+- 🔭 Currently, I'm working on time series forcasting. 
+- 📫 For contact: https://www.linkedin.com/in/anassidr/
 <!--
 **Anassidr/Anassidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
