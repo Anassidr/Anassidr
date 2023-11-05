@@ -1,4 +1,4 @@
-- 🌱 Data Science.
+- 🌱 DS & SWE.
 - ⚡ Stack:
   - Programming : Python
   - Databases : SQL, Postgres
