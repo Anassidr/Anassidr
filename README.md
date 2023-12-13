@@ -1,8 +1,3 @@
-- 🌱 DS & SWE.
-- ⚡ Stack:
-  - Programming : Python
-  - Databases : SQL, Postgres
-  - Devops/OS : Docker, Airflow, AWS | Linux
 <!--
 **Anassidr/Anassidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
