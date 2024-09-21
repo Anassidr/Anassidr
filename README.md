@@ -1,2 +1,2 @@
 - ML Engineer
-- Visit my Pomodoro web app : https://10xtimer.com
+- Pomodoro /w logging feature : https://10xtimer.com
